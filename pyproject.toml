@@ -8,6 +8,7 @@ authors = ["PyDrummer <anthonybeavermusic@gmail.com>"]
 python = "^3.9"
 requests = "^2.25.1"
 beautifulsoup4 = "^4.9.3"
+pytest = "^6.2.2"
 
 [tool.poetry.dev-dependencies]
 
